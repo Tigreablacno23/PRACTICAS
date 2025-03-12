@@ -1,6 +1,6 @@
 #include <stdint.h>
 
-// Definir pines para los LEDs
+// Definir pines para los LEDS
 uint8_t red_led = 2;   // Pin del LED rojo
 uint8_t green_led = 4; // Pin del LED verde
 
